@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
 <h3 align="center">Etudiant en master Génie Logiciel</h3>
+---
 <img align="right" alt="Coding" width="400" style="border-radius: 20px;" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-- 🌱 I’m currently learning **computer science**
-
-- 📫 How to reach me **arnaud.cossu@gmail.com**
+1. 🌱 I’m currently learning **computer science**
+2. 📫 How to reach me **arnaud.cossu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
