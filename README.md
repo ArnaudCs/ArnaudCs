@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
 <h3 align="center">Etudiant en master Génie Logiciel</h3>
 <hr/>
+
 - 🌱 I’m currently learning **computer science**
+
 - 📫 How to reach me **arnaud.cossu@gmail.com**
 
 <img align="right" alt="Coding" style="border-radius: 20px;" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" width="230">
