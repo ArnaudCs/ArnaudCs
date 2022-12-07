@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnaud</h1>
 <h3 align="center">Etudiant en master Génie Logiciel</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnaudcs" alt="arnaudcs" /></a> </p>
-
 - 🌱 I’m currently learning **computer science**
 
 - 📫 How to reach me **arnaud.cossu@gmail.com**
