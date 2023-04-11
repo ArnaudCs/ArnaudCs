@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/YNtycfR/Arnaud-Cossu.gif)](https://arnaudcs.io) 
+[![MasterHead](https://i.ibb.co/nzPYbqg/Arnaud-Cossu-1.gif)](https://arnaudcs.io) 
 <h3 align="center">Etudiant en master Génie Logiciel</h3>
 <hr/>
 
