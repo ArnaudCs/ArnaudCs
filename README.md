@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![SkillIcons](https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cpp,css,express,firebase,git,html,dart,java,js,linux,mongodb,mysql,nodejs,php,vuejs,py,spring,chartjs,googlecloud,mysql,react,reactnative,vuetify,symfony&perline=6)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cpp,css,express,firebase,git,html,dart,java,js,linux,mongodb,mysql,nodejs,php,vuejs,py,spring,chartjs,mysql,react,reactnative,vuetify,symfony&perline=6)](https://skillicons.dev)
 
 
 <div align="center">
