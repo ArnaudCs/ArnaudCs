@@ -16,9 +16,6 @@
 <a href="https://linkedin.com/in/arnaud cossu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnaud cossu" height="30" width="40" /></a>
 <a href="https://discord.gg/#6479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6479" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and tools</h3>
-<div></div>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
