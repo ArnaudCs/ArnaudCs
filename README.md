@@ -17,13 +17,7 @@
 <a href="https://discord.gg/#6479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6479" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"></p>
-[![SkillIcons](https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cpp,css,docker,express,firebase,git,html,idea,java,js,linux,mongodb,mysql,nodejs,php,postgres,py,spring,symfony,ts&perline=6)](https://skillicons.dev)
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <div align="center">
 <div>
