@@ -23,7 +23,6 @@
 
 <div align="center">
 <div>
-<hr/>
 <p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaudcs&show_icons=true&locale=en&layout=compact" alt="arnaudcs" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=arnaudcs&show_icons=true&locale=en" alt="arnaudcs" /></p>
 </div>
