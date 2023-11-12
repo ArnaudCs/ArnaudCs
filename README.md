@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=arduino,eclipse,androidstudio,angular,bootstrap,c,cpp,css,express,firebase,git,html,dart,java,js,materialui,mysql,linux,mongodb,react,nodejs,php,vue,vite,py,spring,figma,sass,flutter,gcp,symfony&perline=6)](https://skillicons.dev)
 
 
 <div align="center">
