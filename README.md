@@ -4,9 +4,8 @@
 
 >[!NOTE]
 >
->This is note text.
-- 🌱 Actuellement en apprentissage **Génie Logiciel**
-- 📫 Pour me contacter **arnaud.cossu@gmail.com**
+>- 🌱 Actuellement en apprentissage **Génie Logiciel**
+>- 📫 Pour me contacter **arnaud.cossu@gmail.com**
 
 <p align="left"> 
   Visitor count<br>
