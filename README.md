@@ -17,6 +17,8 @@
 <a href="https://discord.gg/#6479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6479" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Connect with me:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
