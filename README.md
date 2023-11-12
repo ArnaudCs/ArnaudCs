@@ -18,7 +18,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left"></p>
 [![SkillIcons](https://skillicons.dev/icons?i=androidstudio,angular,bootstrap,c,cpp,css,docker,express,firebase,git,html,idea,java,js,linux,mongodb,mysql,nodejs,php,postgres,py,spring,symfony,ts&perline=6)](https://skillicons.dev)
+
+
 
 
 
