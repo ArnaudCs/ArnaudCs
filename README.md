@@ -2,7 +2,7 @@
 <h3 align="center">Etudiant en master Génie Logiciel</h3>
 <hr/>
 
->[!À Propos]
+>[!IMPORTANT]
 >
 >- 🌱 Actuellement en apprentissage **Génie Logiciel**
 >- 📫 Pour me contacter **arnaud.cossu@gmail.com**
