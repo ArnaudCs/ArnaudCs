@@ -1,4 +1,5 @@
 [![MasterHead](https://i.ibb.co/KxZQV73/banner.png)](https://arnaudcs.io) 
+<hr/>
 <h3 align="center">Etudiant en master Génie Logiciel</h3>
 <hr/>
 
@@ -21,6 +22,7 @@
 >
 >[![SkillIcons](https://skillicons.dev/icons?i=arduino,eclipse,androidstudio,angular,bootstrap,c,cpp,css,express,firebase,git,html,dart,java,js,materialui,mysql,linux,mongodb,react,nodejs,php,vue,vite,py,spring,figma,sass,flutter,gcp,symfony&perline=12)](https://skillicons.dev)
 >
+><h3 align="left">Stats</h3>
 ><table>
 ><thead>
 >  <tr>
