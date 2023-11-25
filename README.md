@@ -21,10 +21,16 @@
 >
 >[![SkillIcons](https://skillicons.dev/icons?i=arduino,eclipse,androidstudio,angular,bootstrap,c,cpp,css,express,firebase,git,html,dart,java,js,materialui,mysql,linux,mongodb,react,nodejs,php,vue,vite,py,spring,figma,sass,flutter,gcp,symfony&perline=12)](https://skillicons.dev)
 
-<div align="center">
-<div>
-<p><img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnaudcs&show_icons=true&locale=en&layout=compact" alt="arnaudcs" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=arnaudcs&show_icons=true&locale=en" alt="arnaudcs" /></p>
-</div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnaudcs&" alt="arnaudcs" /></p>
-</div>
+<table>
+<thead>
+  <tr>
+    <th><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arnaudcs&theme=dark&hide_border=true&include_all_commits=true&count_private=true" align="center" /></th>
+    <th><img src="https://github-readme-streak-stats.herokuapp.com/?user=arnaudcs&theme=dark&hide_border=true" align="center" /></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arnaudcs&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></td>
+  </tr>
+</tbody>
+</table>
