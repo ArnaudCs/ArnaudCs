@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/KxZQV73/banner.png)](https://arnaudcs.io) 
 <hr/>
-<h3 align="center">Etudiant en master Génie Logiciel</h3>
+<h3 align="center">Développeur Mobile/Logiciel, lead design</h3>
 <hr/>
 
 >[!IMPORTANT]
